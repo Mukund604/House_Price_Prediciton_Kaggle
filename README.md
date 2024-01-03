@@ -54,6 +54,3 @@ The models developed achieved the following accuracies on the test dataset:
 
 - [@Mukund604](https://github.com/Mukund604)
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
