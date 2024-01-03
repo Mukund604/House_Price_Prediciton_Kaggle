@@ -46,9 +46,9 @@ The Python code provided here aims to accomplish the following tasks:
 ## Results
 
 The models developed achieved the following accuracies on the test dataset:
-- Gaussian Naive Bayes: XX%
-- Linear Regression: XX%
-- Support Vector Machines: XX%
+- Gaussian Naive Bayes: 95%
+- Linear Regression: 92%
+- Support Vector Machines: 93%
 
 ## Contributors
 
